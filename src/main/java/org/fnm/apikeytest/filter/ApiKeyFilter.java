@@ -1,4 +1,4 @@
-package org.fnm.apikeytest.security;
+package org.fnm.apikeytest.filter;
 
 import jakarta.servlet.*;
 import jakarta.servlet.FilterChain;
